@@ -1,0 +1,49 @@
+#ele1 {
+    cursor: pointer;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    border-radius: 90px;
+    background-color: rgb(210, 177, 220);
+}
+
+.color-box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  /* colores para cada div */
+  .blue {
+    background-color: blue;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  /* Estilos para el div key */
+  
+  #key {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: white;
+  }
+  
